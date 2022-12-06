@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SPICYWORLD-RESTAURANT/static/css/main.b82c963f.css",
+    "main.js": "/SPICYWORLD-RESTAURANT/static/js/main.917c7f72.js",
+    "index.html": "/SPICYWORLD-RESTAURANT/index.html",
+    "main.b82c963f.css.map": "/SPICYWORLD-RESTAURANT/static/css/main.b82c963f.css.map",
+    "main.917c7f72.js.map": "/SPICYWORLD-RESTAURANT/static/js/main.917c7f72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b82c963f.css",
+    "static/js/main.917c7f72.js"
+  ]
+}
